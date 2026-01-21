@@ -1,7 +1,7 @@
 ## Hi there 👋
 # personal portfolio 
 https://indrajitdeshmukh12345.github.io/
-![Python](https://indrajitdeshmukh12345.github.io/)
+
 
 # 💫 About Me:
 Computer Science student graduating in 2026 with a strong interest in software engineering, data-driven systems, and scalable applications. I enjoy building production-ready projects across backend, mobile, and data pipelines using Python, Java, and SQL. Passionate about learning, owning problems end-to-end, and creating software with real-world impact.
